@@ -1,4 +1,4 @@
-# Alura Plux
+# Alura Plus
 
 ![preview](./.github/preview.png)
 
